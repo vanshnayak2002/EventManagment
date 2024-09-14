@@ -20,6 +20,15 @@ also i want to used redis for cache memory uses for more efficient and fast whic
 
 
 
+CODE EXPLAIN
+
+1) first i have created a todo(Task) template which is POJO class where i used field and constructed getter ans setter i have also used entity to automatic table that provides by spring jpa 
+2) TaskService  i have used list for im memory database but later on i integrated with jpa(TodoService)
+3) For business logic and all my api endpoints i created @service (TodoResources)
+4) for integrating with database i used @repository (todoRepository) which is interfaces and extends jpa
+5) there is separte package for jwt all my corse poilcy are there as a front security firewall
+   
+
 
 
 
