@@ -1,7 +1,18 @@
-# 📚 Project Title: ProfileManagerAPI
+# 📚 Project Title: RIWAAZ
 
-Welcome to the **Riwaaz** repository! This project is a robust backend REST API built using Java and Spring Boot, offering a full suite of features including validation, exception handling, API versioning, and support for multiple data formats (JSON and XML). It also integrates custom authentication and database connectivity through JPA with Hibernate.
+Welcome to the **Riwaaz** repository! 
 
+Till Now i have used springboot to build robut and strong api
+
+Develop POST DELETE GET method to fetech and create event along with there will be target Date ,desciption and Delete,create button
+
+I have integrated with react used Axios to link with localhost:3000 backend to frontend localhost:8080
+
+I have mainly focused on security and i have used JWT tokens to build site  more strong
+
+for phase 2 i am showing code of my backend 
+
+also i want to used redis for cache memory uses for more efficient and fast which helps in scablity but there is problem and short of time(future Scope)
 
 ![LoginPage](login.png)
 
