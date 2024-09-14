@@ -17,7 +17,8 @@ for phase 2 i am showing code of my backend
 also i want to used redis for cache memory uses for more efficient and fast which helps in scalablity but there is problem and short of time(future Scope)
 
 ![LoginPage](login.png)
-
+![Welcome Page].(Event page 1.png)
+![Event Page](Event page 2.png)
 
 
 CODE EXPLAIN
