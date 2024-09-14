@@ -4,11 +4,13 @@ Welcome to the **Riwaaz** repository!
 
 Till Now i have used springboot to build robut and strong api
 
-Develop POST DELETE GET method to fetech and create event along with there will be target Date ,desciption and Delete,create button
+Develop POST DELETE GET method to fetch and create event along with  target Date ,desciption and Delete,create button 
 
-I have integrated with react used Axios to link with localhost:3000 backend to frontend localhost:8080
+I have integrated with react framework  used Axios to link with localhost:3000 backend to frontend localhost:8080
 
 I have mainly focused on security and i have used JWT tokens to build site  more strong
+
+Also i used JPA SQL to integrate with database create jpa repository fo real time monitoring
 
 for phase 2 i am showing code of my backend 
 
