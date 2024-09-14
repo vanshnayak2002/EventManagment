@@ -10,11 +10,11 @@ I have integrated with react framework  used Axios to link with localhost:3000 b
 
 I have mainly focused on security and i have used JWT tokens to build site  more strong
 
-Also i used JPA SQL to integrate with database create jpa repository fo real time monitoring
+Also i used JPA SQL to integrate with database create jpa repository for real time monitoring
 
 for phase 2 i am showing code of my backend 
 
-also i want to used redis for cache memory uses for more efficient and fast which helps in scablity but there is problem and short of time(future Scope)
+also i want to used redis for cache memory uses for more efficient and fast which helps in scalablity but there is problem and short of time(future Scope)
 
 ![LoginPage](login.png)
 
