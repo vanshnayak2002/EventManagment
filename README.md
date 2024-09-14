@@ -3,7 +3,7 @@
 Welcome to the **Riwaaz** repository! This project is a robust backend REST API built using Java and Spring Boot, offering a full suite of features including validation, exception handling, API versioning, and support for multiple data formats (JSON and XML). It also integrates custom authentication and database connectivity through JPA with Hibernate.
 
 
-![LoginPage](./path/to/your/image.png)
+![LoginPage](login.png)
 
 
 
