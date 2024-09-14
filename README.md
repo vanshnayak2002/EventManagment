@@ -17,7 +17,7 @@ for phase 2 i am showing code of my backend
 also i want to used redis for cache memory uses for more efficient and fast which helps in scalablity but there is problem and short of time(future Scope)
 
 ![LoginPage](login.png)
-![LoginPage](Eventpage1.png)
+![LoginPage](https://github.com/vanshnayak2002/Riwaaz-EventManagment-/blob/7987b3f8c9559ad4d1f0369d3f908db70c8eb4fa/Event%20page%201.png)
 
 
 
